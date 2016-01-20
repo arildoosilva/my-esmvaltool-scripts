@@ -16,6 +16,12 @@ units: variable units
 `<diag_script cfg="none_yet.py">AOS_compare_T3M_all.py</diag_script>`
 
 
+## Examples
+![alt text](https://raw.githubusercontent.com/arildoosilva/my-esmvaltool-scripts/master/examples/chart.png "Chart")
+![alt text](https://raw.githubusercontent.com/arildoosilva/my-esmvaltool-scripts/master/examples/contour.png "Contour")
+![alt text](https://raw.githubusercontent.com/arildoosilva/my-esmvaltool-scripts/master/examples/map.png "Map")
+
+
 #### About ESMValTool
 ESMValTool is developed by DLR.
 
